@@ -1,4 +1,4 @@
-# Premier démarrage
+# Premier démarrage à lire
 
 Cette page vous guide de la fin de l’installation jusqu’à la première conversation avec Cornelius. Elle suit la rubrique « Mise en route » de l’administration, qui indique à chaque instant ce qu’il reste à faire. Comptez une demi-heure, devant le miroir.
 
